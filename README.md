@@ -1,7 +1,7 @@
 ## Ibrahim M.Y
 (He/Him)
 
-###It always seems impossible until it's done - Nelson Mandela
+### It always seems impossible until it's done - Nelson Mandela
 It's human to be interested in the impossible, it takes drive to accomplish the impossible. Make your goals outside your comfort zone, always be doing what wasn't possible for you!
 
 
