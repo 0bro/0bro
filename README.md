@@ -15,7 +15,7 @@ It's human to be interested in the impossible, it takes drive to accomplish the 
 - 👀 I’d like to explore into Data Analysis and AI to see what kind of services I can offer to clients.
 
 ### Fun Fact:
-Thanks to the weight of squirrels, if they were to fall off any height, their terminal velocity would not capable of exerting enough force to hurt them. They can survive any fall.
+Thanks to the weight of squirrels, if they were to fall off any height, their terminal velocity would not be capable of exerting enough force to hurt them. They can survive any fall.
 
 <!--
 **0bro/0bro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
